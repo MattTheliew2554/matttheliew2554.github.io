@@ -1,0 +1,43 @@
+html, body {
+  font-family: 'Open Sans', Sans-Serif;
+  background-color: #222222;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #222222;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+p, h1, h2, h3 {
+  padding-left: 10%;
+  color: white;
+}
+h1 {
+  height: 130%;
+  width: 130%;
+}
+h2 {
+  height: 100%;
+  width: 100%;
+}
+h3 {
+  height: 95%;
+  width: 95%;
+}
+p {
+  height: 90%;
+  width: 90%;
+}
